@@ -8,6 +8,8 @@ I have viewed all the lec. For some lec's practice, I have coded it.
 
 I have finished all the project. But HW after 09 (included), LAB after 11 (included) and DISC after 11 (included) haven't been done yet. Since it is for SQL.
 
+From 2026.1 to 2026.3
+
 
 ### Overview
 
